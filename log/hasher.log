@@ -1,0 +1,3542 @@
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 0
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 0
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 0
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 0
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 0
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 0
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 0
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 0
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 0
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 0
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 0
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 0
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 0
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 0
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 0
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 0
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 0
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 0
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 0
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 0
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 0
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 0
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 0
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 0
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 0
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 0
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 0
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 0
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 0
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 0
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 0
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 0
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 0
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 0
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 0
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 0
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 0
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 0
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 0
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 0
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 0
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 0
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 0
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 0
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 0
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 0
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 0
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 0
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 0
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 0
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 0
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 0
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 0
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 0
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 0
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 0
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 0
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 0
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 0
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 0
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 0
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 0
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 0
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 0
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 0
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 0
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 0
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 0
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 0
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 0
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 0
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 0
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 0
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 0
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 0
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 0
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 0
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 0
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 0
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 0
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 0
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 0
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 0
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 0
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 0
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 0
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 0
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 0
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 0
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 0
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 0
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 0
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 0
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 0
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 0
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 0
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 0
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 0
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 0
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 0
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 0
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 0
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 0
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 0
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 0
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 0
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 0
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 0
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 0
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 0
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 0
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 0
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 0
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 0
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 0
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 0
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 0
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 0
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 0
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 0
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 0
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 0
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 0
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 0
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 0
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 0
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 0
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 0
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 0
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 0
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 0
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 0
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 0
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 0
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 0
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 0
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 0
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 0
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 0
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 0
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 0
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 0
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 0
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 0
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 0
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 0
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 0
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 0
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 0
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 0
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 0
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 0
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 0
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 0
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 0
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 0
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 0
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 0
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 0
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 0
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 0
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 0
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 0
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 0
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 0
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 0
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 0
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 0
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 0
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 0
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 0
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 0
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 0
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 0
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 0
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 0
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 0
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 0
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 0
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 0
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 0
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 0
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 0
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 0
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 0
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 0
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 0
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 0
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 0
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 0
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 0
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 0
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 0
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 0
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 0
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 0
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 0
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 0
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 0
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 0
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 0
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 0
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 0
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 0
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 0
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 0
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 0
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 0
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 0
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 0
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 0
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 0
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 0
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 0
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 0
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 0
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 0
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 0
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 0
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 0
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 0
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 0
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 0
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 0
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 0
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 0
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 0
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 0
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 0
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 0
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 0
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 0
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 0
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 0
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 0
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 0
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 0
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 0
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 0
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 0
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 0
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 0
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 0
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 0
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 0
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 0
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 0
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 0
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 0
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 0
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 0
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 0
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 0
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 0
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 0
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 0
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 0
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 0
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 0
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 0
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 0
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 0
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 0
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 0
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 0
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 0
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 0
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 0
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 0
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 0
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 0
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 0
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 0
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 0
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 0
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 0
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 0
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 0
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 0
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 0
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 0
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 0
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 0
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 0
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 0
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 0
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 0
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 0
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 0
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 0
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 0
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 0
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 0
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 0
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 0
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 0
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 0
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 0
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 0
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 0
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 0
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 0
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 0
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 0
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 0
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 0
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 0
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 0
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 0
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 0
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 0
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 0
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 0
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 0
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 0
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 0
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 0
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 0
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 0
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 0
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 0
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 0
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 0
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 0
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 0
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 0
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 0
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 0
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 0
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 0
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 0
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 0
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 0
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 0
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 0
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 0
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 0
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 0
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 0
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 0
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 0
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 0
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 0
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 0
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 0
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 0
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 0
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 0
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 0
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 0
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 0
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 0
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 0
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 0
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 0
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 0
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 0
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 0
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 0
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 0
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 0
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 0
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 0
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 0
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 0
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 0
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 0
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 0
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 0
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 0
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 0
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 0
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 0
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 0
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 0
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 0
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 0
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 0
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 0
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 0
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 0
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 0
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 0
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 0
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 0
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 0
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 0
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 0
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 0
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 0
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 0
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 0
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 0
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 0
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 0
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 0
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 0
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 0
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 1
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 1
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 1
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 1
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 0
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 0
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 1
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 1
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 0
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 0
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 0
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 0
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 0
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 0
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 0
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 0
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 1
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 1
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 0
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 0
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 1
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 1
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 0
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 0
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 0
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 0
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 1
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 1
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 0
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 0
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 0
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 0
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 0
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 0
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 0
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 0
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 1
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 1
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 1
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 1
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 0
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 0
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 1
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 1
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 0
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 0
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 1
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 1
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 1
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 1
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 1
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 1
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 1
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 1
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 1
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 1
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 0
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 0
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 0
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 0
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 1
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 1
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 0
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 0
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 1
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 1
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 0
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 0
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 0
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 0
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 1
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 1
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 1
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 1
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 1
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 1
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 1
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 1
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 1
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 1
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 0
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 0
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 1
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 1
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 1
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 1
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 1
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 1
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 1
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 1
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 0
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 0
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 0
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 0
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 0
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 0
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 0
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 0
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 0
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 0
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 1
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 1
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 0
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 0
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 1
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 1
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 1
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 1
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 1
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 1
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 0
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 0
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 0
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 0
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 0
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 0
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 0
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 0
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 0
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 0
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 1
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 1
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 0
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 0
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 1
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 1
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 1
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 1
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 1
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 1
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 1
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 1
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 0
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 0
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 1
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 1
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 0
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 0
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 0
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 0
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 0
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 0
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 0
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 0
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 1
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 1
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 0
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 0
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 1
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 1
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 0
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 0
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 0
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 0
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 1
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 1
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 0
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 0
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 0
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 0
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 0
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 0
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 0
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 0
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 1
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 1
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 1
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 1
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 0
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 0
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 1
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 1
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 0
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 0
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 1
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 1
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 1
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 1
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 1
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 1
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 1
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 1
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 1
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 1
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 0
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 0
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 0
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 0
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 1
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 1
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 0
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 0
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 1
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 1
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 0
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 0
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 0
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 0
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 1
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 0
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 0
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 1
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 1
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 1
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 1
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 0
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 0
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 1
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 1
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 0
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 0
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 0
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 0
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 0
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 0
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 0
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 0
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 1
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 1
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 1
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 1
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 0
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 0
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 0
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 0
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 0
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 0
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 1
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 1
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 0
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 0
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 1
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 1
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 0
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 0
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 0
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 0
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 1
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 1
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 0
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 0
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 0
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 0
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 1
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 1
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 1
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 1
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 1
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 1
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 1
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 1
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 1
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 1
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 1
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 1
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 1
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 1
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 0
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 0
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 1
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 1
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 1
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 1
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 0
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 0
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 0
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 0
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 1
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 1
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 0
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 0
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 0
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 0
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 0
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 0
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 0
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 0
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 0
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 0
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 0
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 0
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 1
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 1
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 1
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 1
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 1
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 1
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 1
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 1
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 1
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 1
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 0
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 0
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 1
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 1
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 0
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 0
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 0
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 0
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 0
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 0
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 1
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 1
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 0
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 0
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 1
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 1
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 1
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 1
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 1
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 1
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 0
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 0
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 0
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 0
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 0
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 0
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 0
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 0
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 0
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 0
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 1
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 1
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 0
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 0
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 0
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 0
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 1
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 1
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 1
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 1
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 1
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 1
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 0
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 0
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 1
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 1
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 0
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 0
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 0
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 0
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 0
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 0
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 0
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 0
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 1
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 1
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 1
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 1
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 0
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 0
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 0
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 0
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 0
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 0
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 1
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 1
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 0
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 0
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 1
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 1
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 0
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 0
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 0
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 0
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 1
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 1
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 0
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 0
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 0
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 0
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 1
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 1
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 1
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 1
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 1
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 1
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 1
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 1
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 1
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 1
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 1
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 1
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 1
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 1
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 0
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 0
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 1
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 1
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 1
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 1
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 0
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 0
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 0
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 0
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 1
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 1
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 0
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 0
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 0
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 1
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 1
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 1
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 1
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 2
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 2
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 2
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 2
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 3
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 3
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 3
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 3
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 4
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 4
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 4
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 4
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 5
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 5
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 5
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 5
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 6
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 6
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 6
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 6
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 7
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 7
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 7
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 7
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 8
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 8
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 8
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 8
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 9
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 9
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 9
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 9
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 10
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 10
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 10
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 10
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 11
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 11
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 11
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 11
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 12
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 12
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 12
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 12
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 13
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 13
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 13
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 13
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 14
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 14
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 14
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 14
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 15
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 15
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 15
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 15
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 16
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 16
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 16
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 16
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 17
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 17
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 17
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 17
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 18
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 18
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 18
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 18
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 19
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 19
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 19
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 19
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 20
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 20
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 20
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 20
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 21
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 21
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 21
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 21
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 22
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 22
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 22
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 22
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 23
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 23
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 23
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 23
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 24
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 24
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 24
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 24
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 25
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 25
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 25
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 25
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 26
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 26
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 26
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 26
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 27
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 27
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 27
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 27
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 28
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 28
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 28
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 28
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 29
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 29
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 29
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 29
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 30
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 30
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 30
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 30
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 31
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 31
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 31
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 31
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 32
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 32
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 32
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 32
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 33
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 33
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 33
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 33
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 34
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 34
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 34
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 34
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 35
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 35
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 35
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 35
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 36
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 36
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 36
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 36
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 37
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 37
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 37
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 37
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 38
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 38
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 38
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 38
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 39
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 39
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 39
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 39
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 40
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 40
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 40
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 40
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 41
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 41
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 41
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 41
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 42
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 42
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 42
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 42
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 43
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 43
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 43
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 43
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 44
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 44
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 44
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 44
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 45
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 45
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 45
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 45
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 46
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 46
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 46
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 46
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 47
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 47
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 47
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 47
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 48
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 48
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 48
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 48
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 49
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 49
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 49
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 49
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 50
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 0
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 0
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 1
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 1
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 1
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 1
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 2
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 2
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 2
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 2
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 3
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 3
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 3
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 3
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 4
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 4
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 4
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 4
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 5
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 5
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 5
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 5
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 6
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 6
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 6
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 6
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 7
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 7
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 7
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 7
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 8
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 8
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 8
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 8
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 9
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 9
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 9
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 9
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 10
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 10
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 10
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 10
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 11
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 11
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 11
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 11
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 12
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 12
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 12
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 12
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 13
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 13
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 13
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 13
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 14
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 14
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 14
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 14
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 15
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 15
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 15
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 15
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 16
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 16
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 16
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 16
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 17
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 17
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 17
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 17
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 18
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 18
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 18
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 18
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 19
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 19
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 19
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 19
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 20
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 20
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 20
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 20
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 21
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 21
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 21
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 21
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 22
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 22
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 22
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 22
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 23
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 23
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 23
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 23
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 24
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 24
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 24
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 24
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 25
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 25
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 25
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 25
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 26
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 26
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 26
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 26
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 27
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 27
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 27
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 27
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 28
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 28
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 28
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 28
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 29
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 29
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 29
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 29
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 30
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 30
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 30
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 30
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 31
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 31
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 31
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 31
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 32
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 32
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 32
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 32
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 33
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 33
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 33
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 33
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 34
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 34
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 34
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 34
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 35
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 35
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 35
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 35
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 36
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 36
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 36
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 36
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 37
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 37
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 37
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 37
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 38
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 38
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 38
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 38
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 39
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 39
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 39
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 39
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 40
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 40
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 40
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 40
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 41
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 41
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 41
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 41
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 42
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 42
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 42
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 42
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 43
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 43
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 43
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 43
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 44
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 44
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 44
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 44
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 45
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 45
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 45
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 45
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 46
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 46
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 46
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 46
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 47
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 47
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 47
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 47
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 48
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 48
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 48
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 48
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 49
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 49
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 49
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 49
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 50
+
+Initial values:
+Time 0 ns cur_time  x student_id x cur_hash 0
+Your id: 2284818
+(your_id) mod (2**16) = 56594
+Your modified id: 56594
+
+Current values:
+Time 1 ns cur_time 0 student_id 56594 cur_hash 0
+Next values:
+Time 5 ns cur_time 0 student_id 56594 cur_hash 59413
+
+Current values:
+Time 5 ns cur_time 4 student_id 56594 cur_hash 59413
+Next values:
+Time 9 ns cur_time 4 student_id 56594 cur_hash 30954
+
+Current values:
+Time 9 ns cur_time 8 student_id 56594 cur_hash 30954
+Next values:
+Time 13 ns cur_time 8 student_id 56594 cur_hash 13705
+
+Current values:
+Time 13 ns cur_time 12 student_id 56594 cur_hash 13705
+Next values:
+Time 17 ns cur_time 12 student_id 56594 cur_hash 46012
+
+Current values:
+Time 17 ns cur_time 16 student_id 56594 cur_hash 46012
+Next values:
+Time 21 ns cur_time 16 student_id 56594 cur_hash 42879
+
+Current values:
+Time 21 ns cur_time 20 student_id 56594 cur_hash 42879
+Next values:
+Time 25 ns cur_time 20 student_id 56594 cur_hash 12589
+
+Current values:
+Time 25 ns cur_time 24 student_id 56594 cur_hash 12589
+Next values:
+Time 29 ns cur_time 24 student_id 56594 cur_hash 24828
+
+Current values:
+Time 29 ns cur_time 28 student_id 56594 cur_hash 24828
+Next values:
+Time 33 ns cur_time 28 student_id 56594 cur_hash 8561
+
+Current values:
+Time 33 ns cur_time 32 student_id 56594 cur_hash 8561
+Next values:
+Time 37 ns cur_time 32 student_id 56594 cur_hash 45959
+
+Current values:
+Time 37 ns cur_time 36 student_id 56594 cur_hash 45959
+Next values:
+Time 41 ns cur_time 36 student_id 56594 cur_hash 51589
+
+Current values:
+Time 41 ns cur_time 40 student_id 56594 cur_hash 51589
+Next values:
+Time 45 ns cur_time 40 student_id 56594 cur_hash 33885
+
+Current values:
+Time 45 ns cur_time 44 student_id 56594 cur_hash 33885
+Next values:
+Time 49 ns cur_time 44 student_id 56594 cur_hash 56181
+
+Current values:
+Time 49 ns cur_time 48 student_id 56594 cur_hash 56181
+Next values:
+Time 53 ns cur_time 48 student_id 56594 cur_hash 718
+
+Current values:
+Time 53 ns cur_time 52 student_id 56594 cur_hash 718
+Next values:
+Time 57 ns cur_time 52 student_id 56594 cur_hash 14846
+
+Current values:
+Time 57 ns cur_time 56 student_id 56594 cur_hash 14846
+Next values:
+Time 61 ns cur_time 56 student_id 56594 cur_hash 271
+
+Current values:
+Time 61 ns cur_time 60 student_id 56594 cur_hash 271
+Next values:
+Time 65 ns cur_time 60 student_id 56594 cur_hash 17739
+
+Current values:
+Time 65 ns cur_time 64 student_id 56594 cur_hash 17739
+Next values:
+Time 69 ns cur_time 64 student_id 56594 cur_hash 18512
+
+Current values:
+Time 69 ns cur_time 68 student_id 56594 cur_hash 18512
+Next values:
+Time 73 ns cur_time 68 student_id 56594 cur_hash 49148
+
+Current values:
+Time 73 ns cur_time 72 student_id 56594 cur_hash 49148
+Next values:
+Time 77 ns cur_time 72 student_id 56594 cur_hash 24174
+
+Current values:
+Time 77 ns cur_time 76 student_id 56594 cur_hash 24174
+Next values:
+Time 81 ns cur_time 76 student_id 56594 cur_hash 61729
+
+Current values:
+Time 81 ns cur_time 80 student_id 56594 cur_hash 61729
+Next values:
+Time 85 ns cur_time 80 student_id 56594 cur_hash 35548
+
+Current values:
+Time 85 ns cur_time 84 student_id 56594 cur_hash 35548
+Next values:
+Time 89 ns cur_time 84 student_id 56594 cur_hash 34835
+
+Current values:
+Time 89 ns cur_time 88 student_id 56594 cur_hash 34835
+Next values:
+Time 93 ns cur_time 88 student_id 56594 cur_hash 23953
+
+Current values:
+Time 93 ns cur_time 92 student_id 56594 cur_hash 23953
+Next values:
+Time 97 ns cur_time 92 student_id 56594 cur_hash 48401
+
+Current values:
+Time 97 ns cur_time 96 student_id 56594 cur_hash 48401
+Next values:
+Time 101 ns cur_time 96 student_id 56594 cur_hash 6244
+
+Current values:
+Time 101 ns cur_time 100 student_id 56594 cur_hash 6244
+Next values:
+Time 105 ns cur_time 100 student_id 56594 cur_hash 46261
+
+Current values:
+Time 105 ns cur_time 104 student_id 56594 cur_hash 46261
+Next values:
+Time 109 ns cur_time 104 student_id 56594 cur_hash 32295
+
+Current values:
+Time 109 ns cur_time 108 student_id 56594 cur_hash 32295
+Next values:
+Time 113 ns cur_time 108 student_id 56594 cur_hash 33199
+
+Current values:
+Time 113 ns cur_time 112 student_id 56594 cur_hash 33199
+Next values:
+Time 117 ns cur_time 112 student_id 56594 cur_hash 55487
+
+Current values:
+Time 117 ns cur_time 116 student_id 56594 cur_hash 55487
+Next values:
+Time 121 ns cur_time 116 student_id 56594 cur_hash 5540
+
+Current values:
+Time 121 ns cur_time 120 student_id 56594 cur_hash 5540
+Next values:
+Time 125 ns cur_time 120 student_id 56594 cur_hash 58733
+
+Current values:
+Time 125 ns cur_time 124 student_id 56594 cur_hash 58733
+Next values:
+Time 129 ns cur_time 124 student_id 56594 cur_hash 16368
+
+Current values:
+Time 129 ns cur_time 128 student_id 56594 cur_hash 16368
+Next values:
+Time 133 ns cur_time 128 student_id 56594 cur_hash 4122
+
+Current values:
+Time 133 ns cur_time 132 student_id 56594 cur_hash 4122
+Next values:
+Time 137 ns cur_time 132 student_id 56594 cur_hash 61396
+
+Current values:
+Time 137 ns cur_time 136 student_id 56594 cur_hash 61396
+Next values:
+Time 141 ns cur_time 136 student_id 56594 cur_hash 19509
+
+Current values:
+Time 141 ns cur_time 140 student_id 56594 cur_hash 19509
+Next values:
+Time 145 ns cur_time 140 student_id 56594 cur_hash 38941
+
+Current values:
+Time 145 ns cur_time 144 student_id 56594 cur_hash 38941
+Next values:
+Time 149 ns cur_time 144 student_id 56594 cur_hash 53145
+
+Current values:
+Time 149 ns cur_time 148 student_id 56594 cur_hash 53145
+Next values:
+Time 153 ns cur_time 148 student_id 56594 cur_hash 49645
+
+Current values:
+Time 153 ns cur_time 152 student_id 56594 cur_hash 49645
+Next values:
+Time 157 ns cur_time 152 student_id 56594 cur_hash 64126
+
+Current values:
+Time 157 ns cur_time 156 student_id 56594 cur_hash 64126
+Next values:
+Time 161 ns cur_time 156 student_id 56594 cur_hash 17761
+
+Current values:
+Time 161 ns cur_time 160 student_id 56594 cur_hash 17761
+Next values:
+Time 165 ns cur_time 160 student_id 56594 cur_hash 41033
+
+Current values:
+Time 165 ns cur_time 164 student_id 56594 cur_hash 41033
+Next values:
+Time 169 ns cur_time 164 student_id 56594 cur_hash 48416
+
+Current values:
+Time 169 ns cur_time 168 student_id 56594 cur_hash 48416
+Next values:
+Time 173 ns cur_time 168 student_id 56594 cur_hash 9948
+
+Current values:
+Time 173 ns cur_time 172 student_id 56594 cur_hash 9948
+Next values:
+Time 177 ns cur_time 172 student_id 56594 cur_hash 42527
+
+Current values:
+Time 177 ns cur_time 176 student_id 56594 cur_hash 42527
+Next values:
+Time 181 ns cur_time 176 student_id 56594 cur_hash 2445
+
+Current values:
+Time 181 ns cur_time 180 student_id 56594 cur_hash 2445
+Next values:
+Time 185 ns cur_time 180 student_id 56594 cur_hash 47466
+
+Current values:
+Time 185 ns cur_time 184 student_id 56594 cur_hash 47466
+Next values:
+Time 189 ns cur_time 184 student_id 56594 cur_hash 8720
+
+Current values:
+Time 189 ns cur_time 188 student_id 56594 cur_hash 8720
+Next values:
+Time 193 ns cur_time 188 student_id 56594 cur_hash 32821
+
+Current values:
+Time 193 ns cur_time 192 student_id 56594 cur_hash 32821
+Next values:
+Time 197 ns cur_time 192 student_id 56594 cur_hash 15218
+
+Current values:
+Time 197 ns cur_time 196 student_id 56594 cur_hash 15218
+Next values:
+Time 201 ns cur_time 196 student_id 56594 cur_hash 695
+
+Current values:
+Time 201 ns cur_time 200 student_id 56594 cur_hash 695
+Next values:
+Time 205 ns cur_time 200 student_id 56594 cur_hash 38118
+
+Current values:
+Time 205 ns cur_time 204 student_id 56594 cur_hash 38118
+Next values:
+Time 209 ns cur_time 204 student_id 56594 cur_hash 52336
+
+Current values:
+Time 209 ns cur_time 208 student_id 56594 cur_hash 52336
+Next values:
+Time 213 ns cur_time 208 student_id 56594 cur_hash 11262
+
+Current values:
+Time 213 ns cur_time 212 student_id 56594 cur_hash 11262
+Next values:
+Time 217 ns cur_time 212 student_id 56594 cur_hash 30252
+
+Current values:
+Time 217 ns cur_time 216 student_id 56594 cur_hash 30252
+Next values:
+Time 221 ns cur_time 216 student_id 56594 cur_hash 61573
+
+Current values:
+Time 221 ns cur_time 220 student_id 56594 cur_hash 61573
+Next values:
+Time 225 ns cur_time 220 student_id 56594 cur_hash 24126
+
+Current values:
+Time 225 ns cur_time 224 student_id 56594 cur_hash 24126
+Next values:
+Time 229 ns cur_time 224 student_id 56594 cur_hash 46102
+
+Current values:
+Time 229 ns cur_time 228 student_id 56594 cur_hash 46102
+Next values:
+Time 233 ns cur_time 228 student_id 56594 cur_hash 55684
+
+Current values:
+Time 233 ns cur_time 232 student_id 56594 cur_hash 55684
+Next values:
+Time 237 ns cur_time 232 student_id 56594 cur_hash 5094
+
+Current values:
+Time 237 ns cur_time 236 student_id 56594 cur_hash 5094
+Next values:
+Time 241 ns cur_time 236 student_id 56594 cur_hash 35298
+
+Current values:
+Time 241 ns cur_time 240 student_id 56594 cur_hash 35298
+Next values:
+Time 245 ns cur_time 240 student_id 56594 cur_hash 36864
+
+Current values:
+Time 245 ns cur_time 244 student_id 56594 cur_hash 36864
+Next values:
+Time 249 ns cur_time 244 student_id 56594 cur_hash 46122
+
+Current values:
+Time 249 ns cur_time 248 student_id 56594 cur_hash 46122
+Next values:
+Time 253 ns cur_time 248 student_id 56594 cur_hash 53008
+
+Current values:
+Time 253 ns cur_time 252 student_id 56594 cur_hash 53008
+Next values:
+Time 257 ns cur_time 252 student_id 56594 cur_hash 56584
+
+Current values:
+Time 257 ns cur_time 256 student_id 56594 cur_hash 56584
+Next values:
+Time 261 ns cur_time 256 student_id 56594 cur_hash 236
+
+Current values:
+Time 261 ns cur_time 260 student_id 56594 cur_hash 236
+Next values:
+Time 265 ns cur_time 260 student_id 56594 cur_hash 41186
+
+Current values:
+Time 265 ns cur_time 264 student_id 56594 cur_hash 41186
+Next values:
+Time 269 ns cur_time 264 student_id 56594 cur_hash 45788
+
+Current values:
+Time 269 ns cur_time 268 student_id 56594 cur_hash 45788
+Next values:
+Time 273 ns cur_time 268 student_id 56594 cur_hash 42549
+
+Current values:
+Time 273 ns cur_time 272 student_id 56594 cur_hash 42549
+Next values:
+Time 277 ns cur_time 272 student_id 56594 cur_hash 20102
+
+Current values:
+Time 277 ns cur_time 276 student_id 56594 cur_hash 20102
+Next values:
+Time 281 ns cur_time 276 student_id 56594 cur_hash 13888
+
+Current values:
+Time 281 ns cur_time 280 student_id 56594 cur_hash 13888
+Next values:
+Time 285 ns cur_time 280 student_id 56594 cur_hash 24067
+
+Current values:
+Time 285 ns cur_time 284 student_id 56594 cur_hash 24067
+Next values:
+Time 289 ns cur_time 284 student_id 56594 cur_hash 3796
+
+Current values:
+Time 289 ns cur_time 288 student_id 56594 cur_hash 3796
+Next values:
+Time 293 ns cur_time 288 student_id 56594 cur_hash 49070
+
+Current values:
+Time 293 ns cur_time 292 student_id 56594 cur_hash 49070
+Next values:
+Time 297 ns cur_time 292 student_id 56594 cur_hash 11784
+
+Current values:
+Time 297 ns cur_time 296 student_id 56594 cur_hash 11784
+Next values:
+Time 301 ns cur_time 296 student_id 56594 cur_hash 34817
+
+Current values:
+Time 301 ns cur_time 300 student_id 56594 cur_hash 34817
+Next values:
+Time 305 ns cur_time 300 student_id 56594 cur_hash 47126
+
+Current values:
+Time 305 ns cur_time 304 student_id 56594 cur_hash 47126
+Next values:
+Time 309 ns cur_time 304 student_id 56594 cur_hash 4960
+
+Current values:
+Time 309 ns cur_time 308 student_id 56594 cur_hash 4960
+Next values:
+Time 313 ns cur_time 308 student_id 56594 cur_hash 30201
+
+Current values:
+Time 313 ns cur_time 312 student_id 56594 cur_hash 30201
+Next values:
+Time 317 ns cur_time 312 student_id 56594 cur_hash 51989
+
+Current values:
+Time 317 ns cur_time 316 student_id 56594 cur_hash 51989
+Next values:
+Time 321 ns cur_time 316 student_id 56594 cur_hash 9300
+
+Current values:
+Time 321 ns cur_time 320 student_id 56594 cur_hash 9300
+Next values:
+Time 325 ns cur_time 320 student_id 56594 cur_hash 15648
+
+Current values:
+Time 325 ns cur_time 324 student_id 56594 cur_hash 15648
+Next values:
+Time 329 ns cur_time 324 student_id 56594 cur_hash 1055
+
+Current values:
+Time 329 ns cur_time 328 student_id 56594 cur_hash 1055
+Next values:
+Time 333 ns cur_time 328 student_id 56594 cur_hash 41885
+
+Current values:
+Time 333 ns cur_time 332 student_id 56594 cur_hash 41885
+Next values:
+Time 337 ns cur_time 332 student_id 56594 cur_hash 38145
+
+Current values:
+Time 337 ns cur_time 336 student_id 56594 cur_hash 38145
+Next values:
+Time 341 ns cur_time 336 student_id 56594 cur_hash 54558
+
+Current values:
+Time 341 ns cur_time 340 student_id 56594 cur_hash 54558
+Next values:
+Time 345 ns cur_time 340 student_id 56594 cur_hash 13110
+
+Current values:
+Time 345 ns cur_time 344 student_id 56594 cur_hash 13110
+Next values:
+Time 349 ns cur_time 344 student_id 56594 cur_hash 43881
+
+Current values:
+Time 349 ns cur_time 348 student_id 56594 cur_hash 43881
+Next values:
+Time 353 ns cur_time 348 student_id 56594 cur_hash 22188
+
+Current values:
+Time 353 ns cur_time 352 student_id 56594 cur_hash 22188
+Next values:
+Time 357 ns cur_time 352 student_id 56594 cur_hash 59221
+
+Current values:
+Time 357 ns cur_time 356 student_id 56594 cur_hash 59221
+Next values:
+Time 361 ns cur_time 356 student_id 56594 cur_hash 30254
+
+Current values:
+Time 361 ns cur_time 360 student_id 56594 cur_hash 30254
+Next values:
+Time 365 ns cur_time 360 student_id 56594 cur_hash 57510
+
+Current values:
+Time 365 ns cur_time 364 student_id 56594 cur_hash 57510
+Next values:
+Time 369 ns cur_time 364 student_id 56594 cur_hash 4422
+
+Current values:
+Time 369 ns cur_time 368 student_id 56594 cur_hash 4422
+Next values:
+Time 373 ns cur_time 368 student_id 56594 cur_hash 9579
+
+Current values:
+Time 373 ns cur_time 372 student_id 56594 cur_hash 9579
+Next values:
+Time 377 ns cur_time 372 student_id 56594 cur_hash 51674
+
+Current values:
+Time 377 ns cur_time 376 student_id 56594 cur_hash 51674
+Next values:
+Time 381 ns cur_time 376 student_id 56594 cur_hash 22673
+
+Current values:
+Time 381 ns cur_time 380 student_id 56594 cur_hash 22673
+Next values:
+Time 385 ns cur_time 380 student_id 56594 cur_hash 60396
+
+Current values:
+Time 385 ns cur_time 384 student_id 56594 cur_hash 60396
+Next values:
+Time 389 ns cur_time 384 student_id 56594 cur_hash 60331
+
+Current values:
+Time 389 ns cur_time 388 student_id 56594 cur_hash 60331
+Next values:
+Time 393 ns cur_time 388 student_id 56594 cur_hash 58231
+
+Current values:
+Time 393 ns cur_time 392 student_id 56594 cur_hash 58231
+Next values:
+Time 397 ns cur_time 392 student_id 56594 cur_hash 12058
+
+Current values:
+Time 397 ns cur_time 396 student_id 56594 cur_hash 12058
+Next values:
+Time 401 ns cur_time 396 student_id 56594 cur_hash 39852
+
